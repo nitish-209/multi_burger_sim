@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The credit goes to Franco Cipollone(https://github.com/francocipollone/multi_turtlebot_sim) who created this package for Turtlebot3 Waffle model. I just edited and added files for it to make it work for turtlebot3 Burger model.
+The credit goes to [Franco Cipollone](https://github.com/francocipollone/multi_turtlebot_sim) who created this package for Turtlebot3 Waffle model. I just edited and added files for it to make it work for turtlebot3 Burger model.
 This package is meant to be an example on how robots needs to be configured in order to support simulating multi robots in the same environment.
 
 ## Platform
